@@ -1,7 +1,7 @@
 # Diversity_Inclusion_Dashboard
 # Diversity and Inclusion Analysis Dashboard
 
-![Diversity and Inclusion Analysis Dashboard](Task3_0001.jpg)
+![Diversity and Inclusion Analysis Dashboard](Task3_page-0001.jpg)
 
 This repository contains the Diversity and Inclusion Analysis Dashboard, a part of my Forage PwC virtual case study. The objective of this project is to analyze and visualize diversity and inclusion trends within an organization. The dashboard presents insightful visualizations based on the provided data.
 
