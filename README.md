@@ -51,7 +51,7 @@ To use the Diversity and Inclusion Analysis Dashboard, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/Rbhavika17/diversity-inclusion-analysis.git
+git clone https://github.com/Rbhavika17/Diversity_Inclusion_Dashboard.git
 ```
 
 2. Open the `index.html` file in your web browser to access the dashboard.
